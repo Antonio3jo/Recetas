@@ -1,0 +1,10 @@
+.receta{
+
+    background: #fdfdfd;
+    display: flex;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    flex-direction: column;
+    /*width: 25%; vamos a recalcularlo restandole el margen*/
+    width: calc(25% - 5rem);
+}

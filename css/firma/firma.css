@@ -1,0 +1,13 @@
+footer{
+    background-color:rgb(130, 92, 21);
+    text-align: center;
+    padding: 20px;
+    
+    height: 40px;
+
+}
+.firma {
+    font-size: 18px;
+    color: #0b0c0c;
+    font-weight: 400;
+}
